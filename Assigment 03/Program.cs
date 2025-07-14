@@ -9,7 +9,7 @@ namespace Assigment_03
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Q01");
 
             // Part 01
 
