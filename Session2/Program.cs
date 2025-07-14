@@ -3,13 +3,13 @@ using System.Runtime.CompilerServices;
 using System.Threading.Channels;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Session2
+namespace Session3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("V03"); 
             #region stirng Formatatting
             // stirng Formatatting
             // Equation : X+ Y = 12 
